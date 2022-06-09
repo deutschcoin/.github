@@ -1,2 +1,3 @@
-# .github
-deutschcoin
+# DeutschCoin 
+
+🇩🇪
